@@ -1,0 +1,3 @@
+All the project data is shared on google drive “https://drive.google.com/drive/folders/0B4N5kXwI1tU2MW9xOFNPYk9TZ3M?usp=sharing”, “https://drive.google.com/drive/folders/0B4N5kXwI1tU2cWh0d19GXzAxME0?usp=sharing”. The cluster data is stored in folder "proj_data", and the testing data is stored in folder "raw_data" with file name "testing_at5.json".
+To run the file, open the jupyter notebook "cs670_project" and run the cell one by one. All the data is assumed to store in the folder "proj_data" & "raw_data".
+Youtube link: https://www.youtube.com/watch?v=wETBHRFr5f0&feature=youtu.be
